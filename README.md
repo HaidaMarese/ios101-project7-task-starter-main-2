@@ -33,9 +33,10 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## Notes
 
 Challenges encountered during development: 
--[ ] Setting up tab bar navigation was a bit challenging because I had to ensure smooth transition between the tasks and calendar views.
 
--[ ] Ensuring that updates to tasks on the main screen also reflected on the calendar view required proper synchronization between the views.
+- Setting up tab bar navigation was a bit challenging because I had to ensure smooth transition between the tasks and calendar views.
+
+- Ensuring that updates to tasks on the main screen also reflected on the calendar view required proper synchronization between the views.
 
 ## License
 
