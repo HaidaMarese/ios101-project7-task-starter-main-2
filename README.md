@@ -24,11 +24,7 @@ The following **additional** features are implemented:
 - [ ] User can edit tasks by tapping on the task in the feed view
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]] https://www.loom.com/share/a5d9b774480c410c9fff101658b7404c?sid=8c584eca-792a-4b3c-b3f3-178a7cfdb423
 
 ## Notes
 
